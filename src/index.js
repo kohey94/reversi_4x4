@@ -172,7 +172,7 @@ function checkStone(isNext, putStoneIndex, squares) {
         7, // lowerRight
         6, // down
         5, // lowerLeft
-        -1, // leftdocker 
+        -1, // left 
         -7, // upperLeft
         -6, // up
         -5 // upperRight
